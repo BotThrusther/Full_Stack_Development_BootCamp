@@ -1,3 +1,3 @@
-# Full_Stack_Development_BootCamp
+# BotThunder501
 
 ## Repo for demo purposes
